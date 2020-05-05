@@ -1,1 +1,2 @@
-# SnakeGameKrish
+# Snake Game
+
